@@ -54,7 +54,7 @@ The game features dynamic difficulty progression, weapon upgrades, and adrenalin
 ### **2️⃣ Setup Instructions**  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/your-repo/VR360-ZombieAttack.git
+   git clone https://github.com/virensasalu/zombieAttack_VR_Game.git 
    cd VR360-ZombieAttack
 2.	Open the project in Unity.
 3.	Connect your Oculus headset.
